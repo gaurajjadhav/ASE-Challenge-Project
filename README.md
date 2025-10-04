@@ -1,8 +1,8 @@
-# Movie Library 🎬
+# Movie Library 
 
 A modern, responsive web application for browsing and discovering movies using The Movie Database (TMDB) API. Built with React, TypeScript, and Tailwind CSS.
 
-## 🌟 Features
+##  Features
 
 - **Movie Discovery**: Browse popular, top-rated, now playing, and upcoming movies
 - **Advanced Search**: Search for movies with real-time results
@@ -12,7 +12,7 @@ A modern, responsive web application for browsing and discovering movies using T
 - **Real-time Data**: Live movie data from TMDB API
 - **Type Safety**: Full TypeScript implementation for better development experience
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Screen
 ![Home Screen](Home%20Page.png)
@@ -24,7 +24,7 @@ A modern, responsive web application for browsing and discovering movies using T
 
 *Popular movies page with advanced filtering options*
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18, TypeScript
 - **Styling**: Tailwind CSS 3.x
@@ -36,7 +36,7 @@ A modern, responsive web application for browsing and discovering movies using T
 - **Icons**: React Icons
 - **Date Handling**: date-fns
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this project, make sure you have:
 
@@ -44,7 +44,7 @@ Before running this project, make sure you have:
 - **npm** or **yarn** package manager
 - **TMDB API Key** (free at [themoviedb.org](https://www.themoviedb.org/settings/api))
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues] https://github.com/gaurajjadhav/ASE-Challenge-Project page
+1. Check the Issues https://github.com/gaurajjadhav/ASE-Challenge-Project page
 2. Create a new issue with detailed information
 3. Contact the development team
 
