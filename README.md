@@ -49,7 +49,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/gaurajjadhav/ASE-Challenge-Project
 cd MovieLibrary
 ```
 
@@ -89,7 +89,7 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## 🧪 Running Tests
+##  Running Tests
 
 ### Run All Tests
 ```bash
@@ -106,7 +106,7 @@ npm run test:coverage
 npm run test:ui
 ```
 
-## 📱 Usage
+##  Usage
 
 ### Navigation
 - **Home**: Browse popular movies and search
@@ -128,7 +128,7 @@ npm run test:ui
 - Click on any movie card to view detailed information
 - See ratings, release dates, and descriptions
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -162,7 +162,7 @@ src/
 └── App.tsx            # Main application component
 ```
 
-## 🎯 Design Choices & Assumptions
+##  Design Choices & Assumptions
 
 ### Architecture Decisions
 1. **React Context over Redux**: Chose React Context for simpler state management given the moderate complexity
@@ -187,7 +187,7 @@ src/
 3. **Memoization**: React.memo() for expensive components
 4. **Efficient Re-renders**: Optimized state updates and context usage
 
-## 🔧 Development Scripts
+##  Development Scripts
 
 ```bash
 # Development
@@ -204,7 +204,7 @@ npm run test:coverage # Run tests with coverage
 npm run lint         # Run ESLint
 ```
 
-## 🌐 API Endpoints Used
+##  API Endpoints Used
 
 - **Popular Movies**: `/movie/popular`
 - **Top Rated**: `/movie/top_rated`
@@ -214,7 +214,7 @@ npm run lint         # Run ESLint
 - **Movie Details**: `/movie/{id}`
 - **Genres**: `/genre/movie/list`
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] User authentication and favorites
 - [ ] Movie recommendations based on viewing history
@@ -226,7 +226,7 @@ npm run lint         # Run ESLint
 - [ ] Watchlist functionality
 - [ ] Social sharing features
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -234,11 +234,11 @@ npm run lint         # Run ESLint
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the movie data API
 - [React](https://reactjs.org/) for the amazing frontend framework
@@ -246,14 +246,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for testing utilities
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-username/movie-library/issues) page
+1. Check the [Issues] https://github.com/gaurajjadhav/ASE-Challenge-Project page
 2. Create a new issue with detailed information
 3. Contact the development team
 
 ---
 
-**Happy Movie Browsing! 🍿**
+**Thank you !**
+**Gauraj Jadhav**
+**gaurajjadhav1@gmail.com**
+**8767614026**
