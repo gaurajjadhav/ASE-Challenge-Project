@@ -15,12 +15,12 @@ A modern, responsive web application for browsing and discovering movies using T
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](https://via.placeholder.com/800x500/2563eb/ffffff?text=Home+Screen+with+Search+and+Popular+Movies)
+![Home Screen](Home Page.png)
 
 *Welcome screen with search functionality and popular movies grid*
 
 ### Popular Movies Page
-![Popular Movies](https://via.placeholder.com/800x500/2563eb/ffffff?text=Popular+Movies+with+Filters)
+![Popular Movies](Popular page.png)
 
 *Popular movies page with advanced filtering options*
 
